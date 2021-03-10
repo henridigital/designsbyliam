@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Circular Std';
+    src: local('Circular Std'), url(/public/font/CircularStd-Black.otf) format('otf');
+};
+
+@font-face {
+    font-family: 'Gangster Grotesk';
+    src: local('Gangster Grotesk'), url(/public/font/Gangster-Grotesk.otf) format('otf');
+};
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
